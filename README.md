@@ -9,7 +9,7 @@ BitNet is a revolutionary architecture that uses extremely low precision (1.58-b
 To install everything automatically, copy and paste this command into your Termux:
 
 ```bash
-pkg install curl -y && curl -sL https://raw.githubusercontent.com/catamsp/Bitnet-Termux/refs/heads/main/install_bitnet.sh | bash
+curl -sL https://raw.githubusercontent.com/catamsp/Bitnet-Termux/refs/heads/main/install_bitnet.sh | bash
 ```
 
 ## 🛠️ Features
